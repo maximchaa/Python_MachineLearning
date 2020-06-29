@@ -13,7 +13,7 @@ int main()
     int j;
 
 
-    out.open("C:\\Users\\Administrator.EliteBook-8760w\\Desktop\\2DPlot\\X.txt");
+    out.open("X.txt");
     if (out.is_open())
     {
         for(j=0; j<200; j++){
@@ -31,7 +31,7 @@ int main()
         cout<<endl<<"Error opening file"<<endl;
     }
 
-    out.open("C:\\Users\\Administrator.EliteBook-8760w\\Desktop\\2DPlot\\Y.txt");
+    out.open("Y.txt");
     if (out.is_open())
     {
         for(i=0; i<200; i++)
@@ -50,7 +50,7 @@ int main()
         cout<<endl<<"Error opening file"<<endl;
     }
 
-    out.open("C:\\Users\\Administrator.EliteBook-8760w\\Desktop\\2DPlot\\Z.txt");
+    out.open("Z.txt");
     if (out.is_open())
     {
         for(i=0; i<200; i++)
