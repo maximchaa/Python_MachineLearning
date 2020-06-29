@@ -1,1 +1,1 @@
-*Task: animation*
+Task: animation
