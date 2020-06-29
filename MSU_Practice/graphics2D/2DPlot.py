@@ -15,9 +15,9 @@ X, Y = np.meshgrid(X, Y)
 Z = X**2 - Y**2
 '''
 
-X=np.loadtxt("C:\\Users\\Administrator.EliteBook-8760w\\Desktop\\2DPlot\\X.txt")
-Y=np.loadtxt("C:\\Users\\Administrator.EliteBook-8760w\\Desktop\\2DPlot\\Y.txt")
-Z=np.loadtxt("C:\\Users\\Administrator.EliteBook-8760w\\Desktop\\2DPlot\\Z.txt")
+X=np.loadtxt("X.txt")
+Y=np.loadtxt("Y.txt")
+Z=np.loadtxt("Z.txt")
 # X, Y, Z - матрицы. X из одинаковых строк, Y из одинаковых столбцов, Z из строк, в каждой из которых y фиксируется, а x бегает.
 
 
@@ -33,4 +33,3 @@ ax.set_ylim(-12, 12)
 ax.set_zlim(-110, 110)
 
 fig.suptitle("Чипсы Принглс", fontsize=12)
-
