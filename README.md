@@ -1,2 +1,2 @@
 # Python_code
-My Python code: hints, practice, homework
+My refresh Python code: hints, practice, homework
