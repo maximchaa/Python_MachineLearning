@@ -1,1 +1,1 @@
-Theme 2: linear regression, gradient methods and scikit-learn
+Theme 2: linear regression, scikit-learn and exploratory data analysis
