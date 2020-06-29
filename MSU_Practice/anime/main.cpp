@@ -11,7 +11,7 @@ int main()
     double x;
 
 
-    out.open("C:\\Users\\Administrator.EliteBook-8760w\\Desktop\\Anime\\X.txt");
+    out.open("X.txt");
 
     if (out.is_open())
     {
@@ -30,7 +30,7 @@ int main()
 
     for(int T=80; T<280; T++)
     {
-        out.open("C:\\Users\\Administrator.EliteBook-8760w\\Desktop\\Anime\\Y"+to_string(T)+".txt");
+        out.open("Y"+to_string(T)+".txt");
         for(int i=0; i<300; i++)
         {
             x=i*0.1;
