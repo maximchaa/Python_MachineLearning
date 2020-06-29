@@ -18,7 +18,7 @@ writer.setup(fig, "video.avi" , 300)
 
 # Создаём сетку
 #x = np.arange(0, 30, 0.1)
-x=np.loadtxt("C:\\Users\\Administrator.EliteBook-8760w\\Desktop\\Anime\\X.txt")
+x=np.loadtxt("X.txt")
 
 
 for t in range(80, T):
@@ -27,7 +27,7 @@ for t in range(80, T):
 
 # Заводим функцию на сетке
     #y = (-1)**t*np.sin(x*t/T)
-    y=np.loadtxt("C:\\Users\\Administrator.EliteBook-8760w\\Desktop\\Anime\\Y"+str(t)+".txt")
+    y=np.loadtxt("Y"+str(t)+".txt")
 # Рисуем
     plt.plot(x, y)
     plt.title("T = %f" % (t))
