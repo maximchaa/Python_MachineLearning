@@ -1,1 +1,1 @@
-*Theme 1: pandas and matplotlib*
+Theme 1: pandas and matplotlib
