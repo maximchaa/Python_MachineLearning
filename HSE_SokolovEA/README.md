@@ -1,1 +1,1 @@
-**Course: Machine learning 1**
+**Course: Machine Learning 1**
