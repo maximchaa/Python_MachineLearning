@@ -1,1 +1,1 @@
-Course: Open Data Science, Машинное обучение
+**Course: Open Data Science, Машинное обучение**
