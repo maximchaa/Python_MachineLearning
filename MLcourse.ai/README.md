@@ -10,3 +10,5 @@
 <br>**Theme 5**: feature extraction and engineering, feature transformation, feature selection; cross validation, GridSearchCV
 <br>**Theme 6**: decision trees and nearest neighbors
 <br>**Theme 7**: ensembles (random forest, bagging), feature importance assessment
+<br>**Theme 8**: gradient boosting (XGBoost, CatBoost)
+<br>**Theme 9** (there's no classwork): principal component analysis, clustering methods comparison
