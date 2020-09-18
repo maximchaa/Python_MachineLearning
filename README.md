@@ -1,2 +1,3 @@
 # Python_code
-My machine learning python code: hints, practices, homeworks, theory
+
+My python code: hints, practices, theory
